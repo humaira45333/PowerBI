@@ -19,7 +19,7 @@ This repository contains training material for Power BI.
 7. **Design Power BI reports**
    - Learn report design and layout
 8. **Write DAX formulas for Power BI Desktop models**
-   Learn DAX formulas, data types, and functions
+   - Learn DAX formulas, data types, and functions
 9. **Add measures to Power BI Desktop models**
    - Learn implicit and explicit measures
 10. **Modify DAX filter contaxt in Power BI Desktop models**
